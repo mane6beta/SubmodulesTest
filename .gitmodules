@@ -1,0 +1,6 @@
+[submodule "ChildA"]
+	path = ChildA
+	url = https://github.com/mane6beta/ChildA.git
+[submodule "ChildB"]
+	path = ChildB
+	url = https://github.com/mane6beta/ChildB.git
